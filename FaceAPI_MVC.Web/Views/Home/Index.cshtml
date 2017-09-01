@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Face API";
+}
+<div ng-controller="dashboardCtrl">
+    <h3>Cortana Intelligence Suite</h3>
+    <p>Microsoft Cognitive Services, Face API </p>
+    <h3>{{Title}}</h3>
+    <p>The cloud-based Face API provides developers with access to advanced face algorithms. Microsoft Face algorithms enable face attribute detection and face recognition.</p>
+    <ul>
+        <li>@Html.ActionLink("Face Detection", "", "FaceDetection")</li>
+        <li>@Html.ActionLink("Person Group", "", "PersonGroup")</li>
+    </ul>
+</div>
+@section NgScript{
+    <script src="~/ScriptsNg/DashboardCtrl.js"></script>
+}
