@@ -208,3 +208,46 @@ C:\Users\kxhakani\Desktop\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.
 C:\Users\kxhakani\Desktop\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csproj.CoreCompileInputs.cache
 C:\Users\kxhakani\Desktop\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
 C:\Users\kxhakani\Desktop\FaceAPI_MVC\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\csc.exe
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\vbc.exe
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll.config
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\FaceAPI_MVC.Web.pdb
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\Microsoft.ProjectOxford.Face.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\Newtonsoft.Json.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Helpers.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Http.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Mvc.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Razor.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Webpages.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\Newtonsoft.Json.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Razor.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Webpages.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Helpers.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Mvc.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Http.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csprojResolveAssemblyReference.cache
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.csproj.CoreCompileInputs.cache
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.dll
+C:\Users\blaisni\Documents\Face API Work\FaceAPI_MVC.Web\obj\Debug\FaceAPI_MVC.Web.pdb
